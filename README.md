@@ -128,3 +128,12 @@ Here is the code used to test the Lambda function:
 }
 ```
 
+## Architecture
+
+<img width="1417" height="805" alt="image" src="https://github.com/user-attachments/assets/ace2d015-cd37-40c9-8ff2-a10dba9174e9" />
+
+## What Do We Need?
+
+<img width="1223" height="656" alt="image" src="https://github.com/user-attachments/assets/cd023e6d-b3f3-4e7e-89f4-b9344943ae88" />
+
+
