@@ -136,4 +136,15 @@ Here is the code used to test the Lambda function:
 
 <img width="1223" height="656" alt="image" src="https://github.com/user-attachments/assets/cd023e6d-b3f3-4e7e-89f4-b9344943ae88" />
 
+## Login
+
+<img width="1890" height="940" alt="image" src="https://github.com/user-attachments/assets/e5918049-d92a-44b6-a097-4c23b863c426" />
+
+<img width="1908" height="966" alt="image" src="https://github.com/user-attachments/assets/92a5c4fa-9f31-4d43-bd3c-5e7a2ef5fbfd" />
+
+
+## After Login: Request for Ride
+<img width="1908" height="945" alt="image" src="https://github.com/user-attachments/assets/5f1eaf58-bef2-4d5f-8358-159a6d9d6c6c" />
+
+
 
